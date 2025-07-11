@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "memory_resource": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "span": "cpp",
+        "atomic": "cpp",
+        "iterator": "cpp",
+        "ranges": "cpp",
+        "bitset": "cpp",
+        "type_traits": "cpp",
+        "stdexcept": "cpp"
+    }
+}
